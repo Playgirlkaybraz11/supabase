@@ -7,7 +7,7 @@
   "repository": "supabase/supabase",
   "dependencies": {
     "pg-format": "^1.0.4",
-    "zod": "^3.22.4"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/pg-format": "^1.0.1",
