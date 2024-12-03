@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@supabase/auth-helpers-nextjs": "^0.9.0",
-    "@supabase/realtime-js": "^2.10.0-next.5",
+    "@supabase/realtime-js": "^2.10.8",
     "@supabase/ssr": "latest",
-    "@supabase/supabase-js": "latest",
+    "@supabase/supabase-js": "2.46.2",
     "autoprefixer": "10.4.17",
     "geist": "^1.2.1",
     "next": "latest",
